@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PetShop</string>
+    <string name="gato">Gato</string>
+    <string name="cao">Cão</string>
+    <string name="passaro">Pássaro</string>
+    <string name="hint_raca">Informe a raça</string>
+    <string name="hint_nome">Informe o nome</string>
+    <string name="hint_idade">Idade (meses)</string>
+    <string name="vacinado">Vacinado</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="remover">Remover</string>
+    <string name="msg_sem_selecao_unica">Selecione o elemento a remover</string>
+    <string name="msg_sem_selecao_multipla">Selecione os elementos a remover</string>
+</resources>

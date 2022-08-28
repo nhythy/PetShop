@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PetShop</string>
+    <string name="gato">Cat</string>
+    <string name="cao">Dog</string>ar
+    <string name="passaro">Bird</string>
+    <string name="hint_raca">Enter race</string>
+    <string name="hint_nome">Enter name</string>
+    <string name="hint_idade">Age (months)</string>
+    <string name="vacinado">Vaccinated</string>
+    <string name="confirmar">Confirm</string>
+    <string name="remover">Delete</string>
+    <string name="msg_sem_selecao_unica">Select element to delete</string>
+    <string name="msg_sem_selecao_multipla">Select elements to delete</string>
+</resources>
